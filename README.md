@@ -31,6 +31,7 @@
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31z7aojm4w25w2gwiyab4ka34moe&cover_image=true&theme=novatorem&background_color=1a001f&bar_color=ff5fd2&bar_color_cover=true" />
 </p>
 
+
 ---
 
 <p align="center">
