@@ -54,9 +54,72 @@
 </pre>
 <p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" /> </p>
 
-🧩 QUEST LOG (PROJECTS)
-🚧 Currently grinding XP…
-New quests unlocking soon.
+## 🧩 QUEST LOG (PROJECTS)
+
+🎮 *Active & Completed Missions — XP increases with every repo*
+
+---
+
+### 🟣 MAIN QUESTS (CORE STORYLINE)
+
+- 🕹️ **COS750 — Retro Factory Method Teaching App**
+  - 🏆 XP: +160
+  - 🎯 Mission Type: Educational Web Application
+  - 🧠 Concept: Factory Method Design Pattern
+  - 🎮 Theme: Retro / Game-Inspired Learning
+  - 🧩 Tech Stack: JavaScript | React | CSS | Supabase
+  - 🗄️ Database: Supabase (Backend-as-a-Service)
+  - 🛠️ Focus: Design patterns, frontend logic, interactive learning
+  - 🔗 Repo: https://github.com/melengmoshokoa/COS750
+
+- 🎓 **Intrusion Detection Model — Honours Project**
+  - 🏆 XP: +200
+  - 🎯 Mission Type: Academic Capstone (Honours)
+  - 🔐 Focus: Cybersecurity & Threat Detection
+  - 🧠 Domain: Machine Learning, Data Analysis
+  - 🧩 Skills: Python, ML Models, Data Processing
+  - 📊 Goal: Detect malicious activity using intelligent models
+  - 🏅 Status: Flagship research project
+  - 🔗 Repo: https://github.com/Wadalisa/Intrusion_Detection_Model
+
+---
+
+### 🔵 SIDE QUESTS (SKILL BUILDS)
+
+- 🧬 **Transfer Learning Experiments**
+  - 🏆 XP: +110
+  - 🧩 Skills: Deep Learning, Model Reuse
+  - 🔗 Repo: https://github.com/Wadalisa/Transfer-Learning
+
+- 📈 **Symbolic Regression**
+  - 🏆 XP: +100
+  - 🧩 Skills: Mathematical Modeling, AI
+  - 🔗 Repo: https://github.com/Wadalisa/Symbolic-Regression
+
+- 🌳 **Structured-Based Gaussian Processes**
+  - 🏆 XP: +100
+  - 🧩 Skills: Probabilistic Models, ML Theory
+  - 🔗 Repo: https://github.com/Wadalisa/Structured-Based-GP
+
+---
+
+### 🟡 MINI QUESTS (EXPERIMENTS & PRACTICE)
+
+- 🧪 **Jupyter Notebook Labs**
+  - 🏆 XP: +40
+  - 🧩 Skills: Exploration, Prototyping
+  - 🔗 Repo: *(new labs unlocking soon)*
+
+---
+
+### 🚧 CURRENTLY GRINDING XP
+⚔️ *More quests unlock as new repositories are added…*
+
+---
+
+### 🔗 ALL QUESTS (AUTO-UPDATED)
+👉 https://github.com/Wadalisa?tab=repositories
+.
 
 🎯 CURRENT OBJECTIVES
   -🎯 Strengthen Python & Java fundamentals
