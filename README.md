@@ -39,7 +39,7 @@
 </p>
 
 ## 🧍‍♀️ PLAYER PROFILE
-<pre>
+
 - 👋 **Name:** Wadalisa Oratile Molokwe
 - 💖 **Pronouns:** She / Her
 - 🧠 **Class:** Aspiring Software & Web Developer
@@ -47,7 +47,7 @@
 -  🎓 **Rank**: Honours Student  
 - 🖧 **Class**: Network Engineer / System Administrator 
 - 🧠 **Skill Tree**: Networking • Systems • Security • Software Development
-</pre>
+
 
 
 ## 🛠️ CURRENT LOADOUT
