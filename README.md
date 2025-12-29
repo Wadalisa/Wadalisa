@@ -39,6 +39,7 @@
 </p>
 
 ## 🧍‍♀️ PLAYER PROFILE
+<pre>
 - 👋 **Name:** Wadalisa Oratile Molokwe
 - 💖 **Pronouns:** She / Her
 - 🧠 **Class:** Aspiring Software & Web Developer
@@ -46,6 +47,7 @@
 -  🎓 **Rank**: Honours Student  
 - 🖧 **Class**: Network Engineer / System Administrator 
 - 🧠 **Skill Tree**: Networking • Systems • Security • Software Development
+</pre>
 
 
 ## 🛠️ CURRENT LOADOUT
@@ -56,7 +58,7 @@
    🗄️ Databases       : SQL | Supabase
    ⚙️ Tools           : Git | GitHub | VS Code
 </pre>
-<p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" /> </p>
+
 
 ## 🧩 QUEST LOG (PROJECTS)
 
