@@ -127,11 +127,11 @@
 👉 https://github.com/Wadalisa?tab=repositories
 .
 
-### 🎯 CURRENT OBJECTIVES
-  -🎯 Strengthen Python & Java fundamentals
-  -🎯 Build real-world projects
-  -🎯 Collaborate with other developers
-  -🎯 Unlock Full-Stack Developer achievement
+## 🎯 CURRENT OBJECTIVES
+ -🎯 Strengthen Python & Java fundamentals
+ -🎯 Build real-world projects
+ -🎯 Collaborate with other developers
+ -🎯 Unlock Full-Stack Developer achievement
 
 
 ## 🏆 ACHIEVEMENTS UNLOCKED
