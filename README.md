@@ -27,10 +27,10 @@
 ---
 
 ## 🎧 CODING SOUNDTRACK
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31z7aojm4w25w2gwiyab4ka34moe&cover_image=true&theme=novatorem&background_color=1a001f&bar_color=ff5fd2&bar_color_cover=true" />
-</p>
 
+[![Spotify](https://img.shields.io/badge/Spotify-Pink%20Synthwave-ff5fd2?style=for-the-badge&logo=spotify)](https://open.spotify.com/user/31z7aojm4w25w2gwiyab4ka34moe)
+
+🎶 *Synthwave • Lo-fi • Cyberpunk focus vibes*
 
 ---
 
@@ -53,11 +53,6 @@
    ⚙️ Tools           : Git | GitHub | VS Code
 </pre>
 <p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" /> </p>
-
-
-📊 GAME STATS
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Wadalisa&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wadalisa&theme=tokyonight" /> </p> <p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" /> </p>
 
 🧩 QUEST LOG (PROJECTS)
 🚧 Currently grinding XP…
