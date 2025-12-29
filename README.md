@@ -127,7 +127,7 @@
 👉 https://github.com/Wadalisa?tab=repositories
 .
 
-🎯 CURRENT OBJECTIVES
+### 🎯 CURRENT OBJECTIVES
   -🎯 Strengthen Python & Java fundamentals
   -🎯 Build real-world projects
   -🎯 Collaborate with other developers
