@@ -13,37 +13,35 @@
 </pre>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=FF4FD8&center=true&vCenter=true&width=650&lines=HUSTLE+MODE+ACTIVE;FUN+TIMES;LEVELING+UP+DAILY;WELCOME+PLAYER+ONE;JESUS+DISCIPLE" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff5fd2&height=120&section=header&text=SYNTHWAVE%20DEV&fontColor=ffffff&fontSize=30" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Wadalisa&label=PROFILE+VIEWS&color=ff4fd8&style=flat-square" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=FF5FD2&center=true&vCenter=true&width=700&lines=SYNTHWAVE+NIGHTS;PINK+NEON+CODING;LEVELING+UP+DAILY" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" />
+  <img src="https://komarev.com/ghpvc/?username=Wadalisa&label=PROFILE+VIEWS&color=ff5fd2&style=flat-square" />
 </p>
 
-<h1 align="center">💜 Wadalisa Oratile Molokwe 🌸</h1>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" />
-</p>
+---
 
 ## 🎧 CODING SOUNDTRACK
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=1a001f&interchange=false&bar_color=ff5fd2&bar_color_cover=true" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31z7aojm4w25w2gwiyab4ka34moe&cover_image=true&theme=novatorem&background_color=1a001f&bar_color=ff5fd2&bar_color_cover=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=header" />
 </p>
 
 ## 🧍‍♀️ PLAYER PROFILE
-- 👋 **Name:** Wadalisa Oratile Molokwe  
-- 💖 **Pronouns:** She / Her  
-- 🧠 **Class:** Aspiring Software & Web Developer  
+- 👋 **Name:** Wadalisa Oratile Molokwe
+- 💖 **Pronouns:** She / Her
+- 🧠 **Class:** Aspiring Software & Web Developer
 - ⚡ **Buffs:** Kiwi 🥝 + Gym 💪 (+10 Energy)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" />
-</p>
 
 ## 🛠️ CURRENT LOADOUT
 <pre>
@@ -69,6 +67,56 @@ New quests unlocking soon.
   -🎯 Build real-world projects
   -🎯 Collaborate with other developers
   -🎯 Unlock Full-Stack Developer achievement
+
+
+## 🏆 ACHIEVEMENTS UNLOCKED
+
+<p align="center">
+
+<!-- Core Dev Achievements -->
+<img src="https://img.shields.io/badge/LEVEL-01%20CODER-ff5fd2?style=for-the-badge&logo=codeforces&logoColor=white" />
+<img src="https://img.shields.io/badge/FIRST%20REPO-CREATED-9b5cff?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/CONSISTENCY-GRINDING%20XP-ff5fd2?style=for-the-badge&logo=githubactions&logoColor=white" />
+
+</p>
+
+<p align="center">
+
+<!-- Language Achievements -->
+<img src="https://img.shields.io/badge/PYTHON-APPRENTICE-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JAVA-TRAINEE-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/WEB%20DEV-INITIATE-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+
+</p>
+
+<p align="center">
+
+<!-- Tools & Workflow -->
+<img src="https://img.shields.io/badge/GIT-VERSIONED-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-QUEST%20LOG-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20CODE-MAIN%20WEAPON-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+
+</p>
+
+<p align="center">
+
+<!-- Mindset & Fun -->
+<img src="https://img.shields.io/badge/PROBLEM-SOLVER-6f42c1?style=for-the-badge&logo=hackthebox&logoColor=white" />
+<img src="https://img.shields.io/badge/GYM%20BUFF-%2B10%20ENERGY-ff5fd2?style=for-the-badge&logo=fitbit&logoColor=white" />
+<img src="https://img.shields.io/badge/KIWI-POWERED-2ecc71?style=for-the-badge&logo=foodpanda&logoColor=white" />
+
+</p>
+
+---
+
+### 🔓 NEXT ACHIEVEMENTS (LOCKED)
+
+-⬜ Open Source Contributor
+-⬜ Full-Stack Developer
+-⬜ Database Master
+-⬜ 100-Day Coding Streak
+
+
 
 🎮 Thanks for visiting my profile
 ⭐ Follow me and let’s level up together
