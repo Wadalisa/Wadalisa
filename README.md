@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=FF5FD2&center=true&vCenter=true&width=700&lines=SYNTHWAVE+NIGHTS;PINK+NEON+CODING;LEVELING+UP+DAILY" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=FF5FD2&center=true&vCenter=true&width=700&lines=CODING+NIGHTS;BIBLICAL+CODING;LEVELING+UP+DAILY;JESUS+DISCIPLE;HUSTLE+MODE+UNLOCKED" />
 </p>
 
 <p align="center">
