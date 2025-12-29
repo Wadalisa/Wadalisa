@@ -128,10 +128,11 @@
 .
 
 ## 🎯 CURRENT OBJECTIVES
- -🎯 Strengthen Python & Java fundamentals
- -🎯 Build real-world projects
- -🎯 Collaborate with other developers
- -🎯 Unlock Full-Stack Developer achievement
+
+-🎯 **Strengthen Python & Java fundamentals**
+-🎯 **Build real-world projects**
+-🎯 **Collaborate with other developers**
+-🎯 **Unlock Full-Stack Developer achievement**
 
 
 ## 🏆 ACHIEVEMENTS UNLOCKED
@@ -176,10 +177,10 @@
 
 ### 🔓 NEXT ACHIEVEMENTS (LOCKED)
 
--⬜ Open Source Contributor
--⬜ Full-Stack Developer
--⬜ Database Master
--⬜ 100-Day Coding Streak
+-⬜ **Open Source Contributor**
+-⬜ **Full-Stack Developer**
+-⬜ **Database Master**
+-⬜ **100-Day Coding Streak**
 
 
 
