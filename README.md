@@ -43,6 +43,10 @@
 - 💖 **Pronouns:** She / Her
 - 🧠 **Class:** Aspiring Software & Web Developer
 - ⚡ **Buffs:** Kiwi 🥝 + Gym 💪 (+10 Energy)
+- - 🎓 **Rank**: Honours Student  
+- 🖧 **Class**: Network Engineer / System Administrator 
+- 🧠 **Skill Tree**: Networking • Systems • Security • Software Development
+
 
 ## 🛠️ CURRENT LOADOUT
 <pre>
