@@ -13,7 +13,7 @@
 </pre>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff5fd2&height=120&section=header&text=SYNTHWAVE%20DEV&fontColor=ffffff&fontSize=30" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff5fd2&height=120&section=header&text=GIRLIE%20DEVELOPER&fontColor=ffffff&fontSize=30" />
 </p>
 
 <p align="center">
