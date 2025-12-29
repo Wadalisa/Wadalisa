@@ -13,7 +13,7 @@
 </pre>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=FF4FD8&center=true&vCenter=true&width=650&lines=SYNTHWAVE+MODE+ACTIVE;PURPLE+NEON+CODING;LEVELING+UP+DAILY;WELCOME+PLAYER+ONE" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=FF4FD8&center=true&vCenter=true&width=650&lines=HUSTLE+MODE+ACTIVE;FUN+TIMES;LEVELING+UP+DAILY;WELCOME+PLAYER+ONE;JESUS+DISCIPLE" />
 </p>
 
 <p align="center">
@@ -28,6 +28,11 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" />
+</p>
+
+## 🎧 CODING SOUNDTRACK
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=1a001f&interchange=false&bar_color=ff5fd2&bar_color_cover=true" />
 </p>
 
 ## 🧍‍♀️ PLAYER PROFILE
