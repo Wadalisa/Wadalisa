@@ -48,8 +48,6 @@
 - 🖧 **Class**: Network Engineer / System Administrator 
 - 🧠 **Skill Tree**: Networking • Systems • Security • Software Development
 
-
-
 ## 🛠️ CURRENT LOADOUT
 <pre>
    🧠 Languages       : Python | Java | JavaScript
@@ -58,7 +56,6 @@
    🗄️ Databases       : SQL | Supabase
    ⚙️ Tools           : Git | GitHub | VS Code
 </pre>
-
 
 ## 🧩 QUEST LOG (PROJECTS)
 
@@ -125,15 +122,15 @@
 
 ### 🔗 ALL QUESTS (AUTO-UPDATED)
 👉 https://github.com/Wadalisa?tab=repositories
-.
+
 
 ## 🎯 CURRENT OBJECTIVES
-
--🎯 **Strengthen Python & Java fundamentals**
--🎯 **Build real-world projects**
--🎯 **Collaborate with other developers**
--🎯 **Unlock Full-Stack Developer achievement**
-
+<pre>
+🎯 Strengthen Python & Java fundamentals
+🎯 Build real-world projects
+🎯 Collaborate with other developers
+🎯 Unlock Full-Stack Developer achievement
+</pre>
 
 ## 🏆 ACHIEVEMENTS UNLOCKED
 
@@ -176,12 +173,12 @@
 ---
 
 ### 🔓 NEXT ACHIEVEMENTS (LOCKED)
-
--⬜ **Open Source Contributor**
--⬜ **Full-Stack Developer**
--⬜ **Database Master**
--⬜ **100-Day Coding Streak**
-
+<pre>
+⬜ Open Source Contributor
+⬜ Full-Stack Developer
+⬜ Database Master
+⬜ 100-Day Coding Streak
+</pre>
 
 
 🎮 Thanks for visiting my profile
