@@ -131,7 +131,7 @@
 🧩 Skills: CNNs, Transfer Learning, Model Evaluation  
 📊 Analysis: Accuracy, convergence, computational cost  
 🎮 Theme: Architecture optimisation & benchmarking  
-🔗 Repo: https://github.com/Wadalisa/EfficientNet-vs-ResNet
+🔗 Repo: [https://github.com/Wadalisa/EfficientNet-vs-ResNet](https://github.com/Wadalisa/Classification-Comparison)
 
 ---
 
