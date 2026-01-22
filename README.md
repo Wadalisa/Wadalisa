@@ -105,7 +105,7 @@
 🧩 Skills: Classification, Optimisation Dynamics  
 📊 Analysis: Standard vs adaptive learning rate comparison  
 🎮 Theme: Feedback-driven evolution mechanics  
-🔗 Repo: https://github.com/Wadalisa/Sign-Based-Adaptive-LR  
+🔗 Repo: [https://github.com/Wadalisa/Sign-Based-Adaptive-LR ](https://github.com/Wadalisa/Standard-vs-Adaptive-Learning-Rate) 
 
 🧬 Transfer Learning — Genetic Programming  
 🏆 XP: +110  
