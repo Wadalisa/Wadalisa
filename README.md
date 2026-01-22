@@ -51,7 +51,7 @@
 ## 🛠️ CURRENT LOADOUT
 <pre>
    🧠 Languages       : Python | Java | JavaScript
-   📓 Data & Learning : Jupyter Notebook
+   📓 Data & Learning : Jupyter Notebook | R | SAS
    🌐 Frontend        : HTML | CSS | React (learning)
    🗄️ Databases       : SQL | Supabase
    ⚙️ Tools           : Git | GitHub | VS Code
@@ -63,59 +63,99 @@
 
 ---
 
-### 🟣 MAIN QUESTS (CORE STORYLINE)
+🟣 MAIN QUESTS (CORE STORYLINE)
 
-- 🕹️ **COS750 — Retro Factory Method Teaching App**
-  - 🏆 XP: +160
-  - 🎯 Mission Type: Educational Web Application
-  - 🧠 Concept: Factory Method Design Pattern
-  - 🎮 Theme: Retro / Game-Inspired Learning
-  - 🧩 Tech Stack: JavaScript | React | CSS | Supabase
-  - 🗄️ Database: Supabase (Backend-as-a-Service)
-  - 🛠️ Focus: Design patterns, frontend logic, interactive learning
-  - 🔗 Repo: https://github.com/melengmoshokoa/COS750
+🕹️ COS750 — Retro Factory Method Teaching App  
+🏆 XP: +160  
+🎯 Mission Type: Educational Web Application  
+🧠 Concept: Factory Method Design Pattern  
+🎮 Theme: Retro / Game-Inspired Learning  
+🧩 Tech Stack: JavaScript | React | CSS | Supabase  
+🗄️ Database: Supabase (Backend-as-a-Service)  
+🛠️ Focus: Design patterns, frontend logic, interactive learning  
+🔗 Repo: https://github.com/melengmoshokoa/COS750  
 
-- 🎓 **Intrusion Detection Model — Honours Project**
-  - 🏆 XP: +200
-  - 🎯 Mission Type: Academic Capstone (Honours)
-  - 🔐 Focus: Cybersecurity & Threat Detection
-  - 🧠 Domain: Machine Learning, Data Analysis
-  - 🧩 Skills: Python, ML Models, Data Processing
-  - 📊 Goal: Detect malicious activity using intelligent models
-  - 🏅 Status: Flagship research project
-  - 🔗 Repo: https://github.com/Wadalisa/Intrusion_Detection_Model
-
----
-
-### 🔵 SIDE QUESTS (SKILL BUILDS)
-
-- 🧬 **Transfer Learning Experiments**
-  - 🏆 XP: +110
-  - 🧩 Skills: Deep Learning, Model Reuse
-  - 🔗 Repo: https://github.com/Wadalisa/Transfer-Learning
-
-- 📈 **Symbolic Regression**
-  - 🏆 XP: +100
-  - 🧩 Skills: Mathematical Modeling, AI
-  - 🔗 Repo: https://github.com/Wadalisa/Symbolic-Regression
-
-- 🌳 **Structured-Based Gaussian Processes**
-  - 🏆 XP: +100
-  - 🧩 Skills: Probabilistic Models, ML Theory
-  - 🔗 Repo: https://github.com/Wadalisa/Structured-Based-GP
+🎓 Intrusion Detection Model — Honours Project  
+🏆 XP: +200  
+🎯 Mission Type: Academic Capstone (Honours)  
+🔐 Focus: Cybersecurity & Threat Detection  
+🧠 Domain: Machine Learning, Data Analysis  
+🧩 Skills: Python, ML Models, Data Processing  
+📊 Goal: Detect malicious activity using intelligent models  
+🏅 Status: Flagship research project  
+🔗 Repo: https://github.com/Wadalisa/Intrusion_Detection_Model  
 
 ---
 
-### 🟡 MINI QUESTS (EXPERIMENTS & PRACTICE)
+🔵 SIDE QUESTS (SKILL BUILDS)
 
-- 🧪 **Jupyter Notebook Labs**
-  - 🏆 XP: +40
-  - 🧩 Skills: Exploration, Prototyping
-  - 🔗 Repo: *(new labs unlocking soon)*
+📈 Symbolic Regression — Genetic Programming  
+🏆 XP: +100  
+🎯 Mission Type: Regression Modelling  
+🧠 Focus: Learning symbolic expressions from data  
+🧩 Skills: Genetic Programming, Mathematical Modelling  
+📊 Metrics: MAE-based fitness evaluation  
+🎮 Theme: Evolutionary search & expression trees  
+🔗 Repo: https://github.com/Wadalisa/Symbolic-Regression  
+
+⚡ Sign-Based Adaptive Learning Rate — GP Classification  
+🏆 XP: +120  
+🎯 Mission Type: Classification Optimisation  
+🧠 Focus: Adaptive learning rate strategies in GP  
+🧩 Skills: Classification, Optimisation Dynamics  
+📊 Analysis: Standard vs adaptive learning rate comparison  
+🎮 Theme: Feedback-driven evolution mechanics  
+🔗 Repo: https://github.com/Wadalisa/Sign-Based-Adaptive-LR  
+
+🧬 Transfer Learning — Genetic Programming  
+🏆 XP: +110  
+🎯 Mission Type: Knowledge Transfer Experiment  
+🧠 Focus: Reusing evolved GP populations across tasks  
+🧩 Skills: Transfer Learning, Evolutionary Algorithms  
+📉 Metrics: Cross-task fitness comparison  
+🎮 Theme: Evolutionary knowledge reuse  
+🔗 Repo: https://github.com/Wadalisa/Transfer-Learning  
+
+🌳 Structured-Based Gaussian Processes  
+🏆 XP: +100  
+🎯 Mission Type: Probabilistic Modelling Study  
+🧠 Focus: Structured GP representations  
+🧩 Skills: Gaussian Processes, ML Theory  
+📊 Emphasis: Model structure & uncertainty handling  
+🔗 Repo: https://github.com/Wadalisa/Structured-Based-GP  
+
+🖼️ EfficientNet vs ResNet — CNN Architecture Comparison  
+🏆 XP: +90  
+🎯 Mission Type: Model Comparison Study  
+🧠 Focus: Efficiency vs performance trade-offs  
+🧩 Skills: CNNs, Transfer Learning, Model Evaluation  
+📊 Analysis: Accuracy, convergence, computational cost  
+🎮 Theme: Architecture optimisation & benchmarking  
+🔗 Repo: https://github.com/Wadalisa/EfficientNet-vs-ResNet
 
 ---
+
+🟡 MINI QUESTS (EXPERIMENTS & PRACTICE) 
+
+🧪 Jupyter Notebook Labs  
+🏆 XP: +40  
+🎯 Mission Type: Prototyping & Practice  
+🧩 Skills: Experimentation, Rapid Analysis  
+📓 Format: Standalone notebooks  
+🔓 Status: New labs unlocking  
+🔗 Repo: (in progress)
+
 
 ### 🚧 CURRENTLY GRINDING XP
+
+🎮 Mini Quest I — Data Explorer’s Trial  
+🏆 XP: +60  (In Progress)
+🎯 Mission Type: Exploratory Data Analysis  
+🧠 Focus: Analytical reasoning & data storytelling  
+🧩 Skills: EDA, Visualisation, Statistical Insight  
+🛠️ Toolchains: Python | R | SAS  
+🎮 Theme: Multi-build analytics challenge  
+🔗 Repo: https://github.com/Wadalisa/Data-Explorers-Trial 
 ⚔️ *More quests unlock as new repositories are added…*
 
 ---
